@@ -1,6 +1,10 @@
 # NameGenerator 🔎
 A name generator is a python based GUI application made for choosing names for boys and girls with all types. 👦👧
 
+# Libraries and Stacks 👨‍💻
+- Python 3
+- Tkinter GUI library
+
 # 🚀&nbsp;Installation 📥
 1. Clone the repository 
 ```
