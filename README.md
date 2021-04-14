@@ -1,7 +1,7 @@
-# NameGenerator
+# NameGenerator 🔎
 A name generator is a python based GUI application made for choosing names for boys and girls with all types. 👦👧
 
-# 🚀&nbsp;Installation 
+# 🚀&nbsp;Installation 📥
 1. Clone the repository 
 ```
 https://github.com/Ash515/NameGenerator.git
@@ -29,5 +29,8 @@ $git push origin master
 ```
 Thats all about installation and version control with **Git**
 
-# Image Results
-<img src="./images results/image1.png">
+# Image Results ✨👓
+<img src="image results/image1.png" width="450px">    <img src="image results/image2.png" width="450px">
+
+# Developer 😎
+[Ashwin Kumar Ramaswamy](https://github.com/Ash515)
