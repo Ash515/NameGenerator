@@ -30,4 +30,4 @@ $git push origin master
 Thats all about installation and version control with **Git**
 
 # Image Results
-<img src="/Images Results/image1.png">
+<img src="./images results/image1.png">
